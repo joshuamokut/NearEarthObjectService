@@ -1,0 +1,4 @@
+nasa:
+  api:
+    key: LHrrkXRblzF3gB9yrePyKJwhx6MqgxGua6HndcVW
+    url: https://api.nasa.gov/neo/rest/v1/feed
